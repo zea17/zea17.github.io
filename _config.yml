@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Zea's Diaries
+tagline:
+url: https://zea17.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -29,8 +29,13 @@ sass:
 # Specify the author for blog posts
 author:
   name: Zea Akbari
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  url: https://zea17.github.io/
+  email: zeaak17@gmail.com
 
 # Custom vars
 version: 3.0.0
+
+paginate_path: "/blog/page:num/"
+paginate: 5
+plugins:
+  - jekyll-paginate
