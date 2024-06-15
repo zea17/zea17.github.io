@@ -6,11 +6,6 @@ paginate: 1
 baseurl: ""
 permalink: pretty
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
 
 # Optimize Jekyll
 exclude:
@@ -33,7 +28,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: Zea Akbari
   url: https://twitter.com/mdo
   email: markdotto@gmail.com
 
