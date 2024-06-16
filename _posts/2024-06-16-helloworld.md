@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 Hello,
-I'm Z, and this is my first website. Honestly, I'm not sure what exactly I should write here or if there are any rules to follow. But, just about ten minutes ago, I decided to write down the thoughts in my mind and share the things I do and the cool stuff I come across. Probably, no one except myself will see this, which is fine because it makes writing easier for me until I figure out what usually goes on awesome websites.
+I'm Zea, and this is my first website. Honestly, I'm not sure what exactly I should write here or if there are any rules to follow. But, just about ten minutes ago, I decided to write down the thoughts in my mind and share the things I do and the cool stuff I come across. Probably, no one except myself will see this, which is fine because it makes writing easier for me until I figure out what usually goes on awesome websites.
 
 For now, the plan is to write to clear my mind, and I think it's going to be a lot of fun. Even though I'm not great at writing, it's always been a calming activity for me. There was a time in my life, when I was eight years old and had just learned to write, that I wanted to become a writer. But the following year, when I got more familiar with math, I changed my mind and wanted to win a Nobel Prize in Mathematics. I found out tonight that there is no Nobel Prize for Mathematics, and I'm relieved to have an answer for my nine-year-old self.
 
