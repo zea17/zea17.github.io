@@ -10,3 +10,4 @@ For now, the plan is to write to clear my mind, and I think it's going to be a l
 After considering various careers like writer, mathematician, footballer, football coach, heart surgeon, carpenter, painter, psychologist, and designer, I finally landed on programming and computer science. I don't know if I'll change my mind again or how long I'll continue with this, but right now, I'm having the best time of my life. I love learning, and diving into the vast world of algorithms and different programming languages gives me the ability to create various things.
 
 A while ago, someone told me that the more you code, the better you get at it, and it also makes you a better writer. I hope that when more people discover this site, I'll have become both a better programmer and a better writer, making my blogs interesting for others to read.
+![summer](/Users/zea/Developer/website/assets/summer.jpg)
