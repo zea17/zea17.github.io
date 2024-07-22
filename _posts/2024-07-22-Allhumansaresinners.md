@@ -1,0 +1,9 @@
+---
+layout: post
+title: Hello World
+---
+Tonight, New York came to visit me, and as usual, we watched movies together. We each picked one movie to watch. We rolled dice to decide which one to watch first, and I won. We watched my movie first, and then we watched the one New York chose.
+
+In one of the scenes, a character said, "All humans are sinners," and this line hit me hard because it's something I deeply believe in. This belief has made my life difficult because I find it hard to trust anyone. I haven't felt well for a long time because people have come into my life and gotten close to me, making me feel insecure. I constantly feel like danger is near, and even though I feel love for these people, I'm equally terrified. Many of my partners have probably heard me say multiple times that I love them and that I'm scared.
+
+To be honest, we are all inherently free like animals, but we are trapped in a prison of rules and principles. Eventually, everyone breaks out of this prison. Those who haven't escaped probably tried but didn't succeed due to sheer luck. In reality, there is no good or bad for us or our nature. Humans live for survival and have created rules to ensure it. But if we look deeper, nothing is inherently good or bad. We have a few cats in our yard who are like close friends to me, and I love them dearly. One of them was named Maze, inspired by the character Maze in the TV series "Lucifer," and it was my favorite cat. But after a while, I saw it attacking one of our kittens, probably its own child, and this made me hate it. But the truth is, Maze didn't even know what it was doing was wrong. I fear humans, animals, and all living beings because they can do anything and will do anything. Honestly, my wish is for technology to advance so much that all my friends are robots. While they can be scary, believe me, nothing is more frightening than living beings.
