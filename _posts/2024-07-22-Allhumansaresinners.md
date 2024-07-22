@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: All humans are sinners
 ---
 Tonight, New York came to visit me, and as usual, we watched movies together. We each picked one movie to watch. We rolled dice to decide which one to watch first, and I won. We watched my movie first, and then we watched the one New York chose.
 
