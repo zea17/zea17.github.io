@@ -18,7 +18,7 @@ Can we talk? There’s nothing to tell you, I have so much to say. I can’t. Le
 
 Have you ever watched Mommy? Do you want to hear my Fox Force Five joke? Maybe when he said: She wantend something and i just couldn't figure out what it was. I love how Billy Elliot can dance.
 
-Do you even want to help me? Do you think I need your help? OMG, who added this song to my library? I don’t even like it.
+Do you even want to help me? Do you think I need your help? God, who added this song to my library. I don’t even like it!
 
 __My mother doesn’t have cancer.__
 It was a mistake. So now, what’s the problem? Should I make one up?
