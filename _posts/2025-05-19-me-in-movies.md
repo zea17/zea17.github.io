@@ -35,4 +35,4 @@ OMG, I love Kill Bill. i think the VOl-1 is the best one.
 What is your favorite movie?
 I love to watch people’s favorite movies.
 
-![movies](/assets/Movies.png)
+![movies](/assets/Movies.webp)
