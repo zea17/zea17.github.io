@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Demon or Zea
+title: Me In Movies
 ---
-
-![movies](/assets/Movies.png)
 
 The last four months have been like a nightmare for me. __I found out my mother has cancer__—it was the thing I'd feared most in life. but Girl, You'll Be a Woman Soon.
 
@@ -36,3 +34,5 @@ OMG, I love Kill Bill. i think the VOl-1 is the best one.
 
 What is your favorite movie?
 I love to watch people’s favorite movies.
+
+![movies](/assets/Movies.png)
